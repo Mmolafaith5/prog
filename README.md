@@ -48,13 +48,4 @@ brief: https://www.youtube.com/watch?v=MOhiM2SXZI0
 - `loginUser(username, password)` – true if the details match what was saved when the
   user registered.
 - `returnLoginStatus(username, password)` – returns the welcome message on success, or
-  the "incorrect" message on failure.
-
-## Before you submit — don't forget
-
-- [ ] Push this project to a GitHub repository with **at least 6 commits**, and submit the
-      GitHub link on Arc for Part 1.
-- [ ] Record an **unlisted YouTube video** (or similar) with **your own voice** (no AI
-      voices) explaining your code, your logic/flow, and showing the app running.
-- [ ] Double check every message your program prints matches the wording in the brief
-      exactly (including punctuation) — the marker's tests check this.
+  the "incorrect" message on fail
